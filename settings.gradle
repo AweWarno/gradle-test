@@ -1,0 +1,5 @@
+rootProject.name = 'gradel-test'
+include 'db'
+include 'api'
+include 'service'
+
